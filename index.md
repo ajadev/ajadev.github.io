@@ -1,5 +1,21 @@
 ## Welcome to GitHub Pages
 
+This is an image: ![Earthrise 1: Historic Image Remastered Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang](images/Earthrise1_Apollo8AndersWeigang_960.jpg)
+Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
+
+### Example of a Procedure
+1. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more.
+![](images/Earthrise1_Apollo8AndersWeigang_960.jpg)
+Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
+2. Then again. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more.
+![](images/Earthrise1_Apollo8AndersWeigang_960.jpg)
+Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
+3. Then again. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more.
+![](images/Earthrise1_Apollo8AndersWeigang_960.jpg)
+Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
+4. Then again. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more.
+
+
 You can use the [editor on GitHub](https://github.com/ajadev/ajadev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
