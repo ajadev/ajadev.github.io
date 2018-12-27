@@ -6,13 +6,13 @@ Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill 
 ### Example of a Procedure
 1. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more.
 ![](images/Earthrise1_Apollo8AndersWeigang_960.jpg)
-#### Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
+##### Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
 2. Then again. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more.
 ![](images/Earthrise1_Apollo8AndersWeigang_960.jpg)
-#### Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
+###### Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
 3. Then again. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more.
 ![](images/Earthrise1_Apollo8AndersWeigang_960.jpg)
-#### Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
+####### Earthrise 1: Historic Image Remastered. Image Credit: NASA, Apollo 8 Crew, Bill Anders; Processing and License: Jim Weigang
 4. Then again. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more. Do this a lot. Then more.
 
 
